@@ -9,10 +9,6 @@ emails: sinskiy@proton.me, sinskiy@duck.com
 
 discord: @sinskiy_
 
-[bluesky](https://bsky.app/profile/sinskiy.bsky.social)
-
-[youtube (*seterra speedruns*)](https://youtube.com/@sinskiy_)
-
 ---
 
 ## About me
@@ -55,3 +51,17 @@ General
 - Vim, NeoVim
 - Go
 - Typescript, Astro (improve knowledge); SCSS/Sass (revise)
+
+---
+
+## Projects
+
+- Boilerplate template for Svelte, MeltUI, Turso, Drizzle, and Lucia that I can't show since it's in a private GItHub repository because it's not finished yet (currently working)
+
+- Catstagram - a social media something between twitter and instagram, but for cat lovers (temporarily suspended, because got tired of working on it)
+
+- [auction](https://auction-dun.vercel.app/) - a website to test Supabase
+
+- [sinskiy.github.io](https://sinskiy.github.io) - my personal website made with Astro
+
+- [Seterra extra](https://github.com/Sinskiy/seterraextra). extension, that adds many cool features for Seterra, - a website for learning geography
