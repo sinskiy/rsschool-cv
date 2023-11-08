@@ -18,3 +18,40 @@ discord: @sinskiy_
 ## About me
 
 A 15 years old from russia, who really likes to read dystopias and self-improvement books. It's hard for me to talk to strangers and I'm a bit awkward. I use calendars to schedule my day to be more productive, and usually I code or try to speak English on Discord servers for language learning
+
+---
+
+## Skills
+
+Web Development
+
+- Svelte
+- SvelteKit, Astro
+- Supabase, Turso
+- Javascript, Typescript
+- Vite
+- HTML, CSS
+- SCSS/Sass, Tailwind
+- Browser extensions development
+
+ Programming
+
+- Git, GitHub
+- SQL
+
+General
+
+- Markdown
+- Figma
+- VSCode
+
+---
+
+## Want to learn
+
+- Bun
+- Vitest
+- Linux terminal commands, bash scripts
+- Vim, NeoVim
+- Go
+- Typescript, Astro (improve knowledge); SCSS/Sass (revise)
