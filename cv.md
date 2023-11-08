@@ -65,3 +65,10 @@ General
 - [sinskiy.github.io](https://sinskiy.github.io) - my personal website made with Astro
 
 - [Seterra extra](https://github.com/Sinskiy/seterraextra). extension, that adds many cool features for Seterra, - a website for learning geography
+
+---
+
+## Languages
+
+- English. Understanding B2, Speaking A2
+- Russian. Native
